@@ -1,4 +1,4 @@
 def addition(a, b):
-    return a + b + 1
+    return a + b
 
-# Test Simulation d'une regression
+# Test Correction erreur
